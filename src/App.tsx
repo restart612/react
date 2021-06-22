@@ -1,5 +1,6 @@
 import React from 'react'
+import Login from './pages/Login/login'
 
-export default function App() {
-  return <div>app</div>
-}
+const App: React.FC = () => <Login />
+
+export default App

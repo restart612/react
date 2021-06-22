@@ -6,7 +6,7 @@
     ],
     "singleQuote": true,
     "prettier.tabWidth": 2,
-    "printWidth": 200,
+    "printWidth": 130,
     "htmlWhitespaceSensitivity": "ignore",
     "semi": false
   }
